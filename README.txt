@@ -1,4 +1,4 @@
-CEE484_HW4_MSE_wall_design
+MSE Wall design - Matlab
 
 Description:
     > The script was written to primarily for design of MSE walls.
